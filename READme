@@ -1,0 +1,26 @@
+# Overview
+
+Right now my app is running in the terminal. My XCode isn't working so I will try it on my sister's computer when I get access to it. I am planning on making this app with a Pass along type game format. In other words the phone would be passed from person to person allowing multiple people to play from the same device. 
+
+I am creating this app at the request of my litle brother. He is on a church mission right now and he had my older sister design a map using the zones for his mission. He casually mentioned a Risk app based on his mission that he could play with us and said that I should make one. The goal this sprint and next is to learn how to make a game like that.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+I have been using VScode and XCode (the later isn't working right now).
+
+I am working eith Swift and have been trying to watch as many youtube videos and read as many how-to guides as possible.
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Web Site Name](https://www.appcoda.com/learnuikit/build-your-first-app.html)
+* [Web Site Name](https://www.youtube.com/watch?v=nAchMctX4YA&ab_channel=Fireship)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Get the GUI/Xcode working
+* Make the game playable
+* Make the menu on the game
